@@ -67,13 +67,13 @@ slider = st.sidebar.slider('Year', 2020, 2022, 2020)
 
 # Make dropdown menu for x and y axis
 # Create a dropdown Select widget for the x data: x_select
-x_select = st.sidebar.selectbox('Scatter plot (x-axis data)', ['new_cases', 'new_deaths', 'new_recovered', 'new_active_cases'], index=0)
+x_select = st.sidebar.selectbox('COVID-19 Scatter plot (x-axis data)', ['new_cases', 'new_deaths', 'new_recovered', 'new_active_cases'], index=0)
 
 # Create a dropdown Select widget for the y data: y_select
-y_select = st.sidebar.selectbox('Scatter plot (y-axis data)', ['new_cases', 'new_deaths', 'new_recovered', 'new_active_cases'], index=1)
+y_select = st.sidebar.selectbox('COVID-19 Scatter plot (y-axis data)', ['new_cases', 'new_deaths', 'new_recovered', 'new_active_cases'], index=1)
 
 # Create a dropdown Select widget for the bar plot data: bar_select
-bar_select = st.sidebar.selectbox('Bar plot data', ['new_cases', 'new_deaths', 'new_recovered', 'new_active_cases'], index=0)
+bar_select = st.sidebar.selectbox('COVID-19 Bar plot data', ['new_cases', 'new_deaths', 'new_recovered', 'new_active_cases'], index=0)
 
 # Create the figure: scatter_plot
 scatter_plot = figure(title='2020', x_axis_label='New Cases', y_axis_label='New Deaths',
