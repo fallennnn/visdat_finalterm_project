@@ -77,12 +77,11 @@ bar_select = st.sidebar.selectbox('Bar plot data', ['new_cases', 'new_deaths', '
 
 # Create the figure: scatter_plot
 scatter_plot = figure(title='2020', x_axis_label='New Cases', y_axis_label='New Deaths',
-                      sizing_mode='stretch_width', height=400, width=700, tools=[HoverTool(tooltips='@location')])
+                      plot_height=400, plot_width=700, tools=[HoverTool(tooltips='@location')])
 
 # Add a circle glyph to the scatter_plot
 scatter_plot.circle(x='x', y='y', source=source, fill_alpha=0.8,
-                    color=dict(field='island', transform=color_mapper), legend_field='island')
-
+                    color=dict(field='island', transform=color_mapper), legend='island')
 
 # Set the legend and axis attributes
 scatter_plot.legend.location = 'top_right'
@@ -99,7 +98,7 @@ new_color_mapper = CategoricalColorMapper(factors=island_list, palette=Viridis6)
 
 # Create bar plot
 bar_plot = figure(title='Bar Plot', x_axis_label='Island', y_axis_label=bar_select,
-                  sizing_mode='stretch_width', height=400, width=700, toolbar_location=None, x_range=sorted(data.Island.unique().tolist()))
+                  plot_height=400, plot_width=700, toolbar_location=None, x_range=sorted(data.Island.unique().tolist()))
 
 bar_plot.vbar(x='island', top='counts', source=bar_source, width=0.8, color=dict(field='island', transform=new_color_mapper))
 
