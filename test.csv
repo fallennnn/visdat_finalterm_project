@@ -1,0 +1,103 @@
+,Year,Location,Island,new_cases,new_deaths,new_recovered,new_active_cases
+0,2020,Aceh,Sumatera,8746,358,7139,1249
+1,2020,Bali,Nusa Tenggara,17593,516,16144,933
+2,2020,Banten,Jawa,18154,520,15583,2051
+3,2020,Bengkulu,Sumatera,3603,112,2555,936
+4,2020,DKI Jakarta,Jawa,183697,3250,164665,15782
+5,2020,Daerah Istimewa Yogyakarta,Jawa,12155,259,8175,3721
+6,2020,Gorontalo,Sulawesi,3840,104,3307,429
+7,2020,Jambi,Sumatera,3227,56,2318,853
+8,2020,Jawa Barat,Jawa,90216,1446,74920,13850
+9,2020,Jawa Tengah,Jawa,82546,3620,56461,22465
+10,2020,Jawa Timur,Jawa,84399,6367,74835,3197
+11,2020,Kalimantan Barat,Kalimantan,3118,25,2741,352
+12,2020,Kalimantan Selatan,Kalimantan,15303,584,13800,919
+13,2020,Kalimantan Tengah,Kalimantan,9740,198,6448,3094
+14,2020,Kalimantan Timur,Kalimantan,27076,743,22805,3528
+15,2020,Kalimantan Utara,Kalimantan,3794,57,2045,1692
+16,2020,Kepulauan Bangka Belitung,Sumatera,2338,35,1718,585
+17,2020,Kepulauan Riau,Sumatera,6995,171,6050,774
+18,2020,Lampung,Sumatera,6276,274,4318,1684
+19,2020,Maluku,Maluku,5722,71,4557,1094
+20,2020,Maluku Utara,Maluku,2771,89,2353,329
+21,2020,Nusa Tenggara Barat,Nusa Tenggara,5664,261,4555,848
+22,2020,Nusa Tenggara Timur,Nusa Tenggara,2167,49,1203,915
+23,2020,Papua,Papua,13209,155,7054,6000
+24,2020,Papua Barat,Papua,5979,98,5449,432
+25,2020,Riau,Sumatera,24966,582,23075,1309
+26,2020,Sulawesi Barat,Sulawesi,1941,34,1551,356
+27,2020,Sulawesi Selatan,Sulawesi,31045,593,25749,4703
+28,2020,Sulawesi Tengah,Sulawesi,3552,106,1865,1581
+29,2020,Sulawesi Tenggara,Sulawesi,7907,147,6680,1080
+30,2020,Sulawesi Utara,Sulawesi,9670,310,7075,2285
+31,2020,Sumatera Barat,Sumatera,23464,525,21815,1124
+32,2020,Sumatera Selatan,Sumatera,11826,599,9361,1866
+33,2020,Sumatera Utara,Sumatera,18149,679,15391,2079
+34,2021,Aceh,Sumatera,29684,1708,29222,-1246
+35,2021,Bali,Nusa Tenggara,96796,3545,94126,-875
+36,2021,Banten,Jawa,114672,2169,114435,-1932
+37,2021,Bengkulu,Sumatera,19502,361,20076,-935
+38,2021,DKI Jakarta,Jawa,681563,10339,686496,-15272
+39,2021,Daerah Istimewa Yogyakarta,Jawa,144842,5010,143447,-3615
+40,2021,Gorontalo,Sulawesi,8009,357,8080,-428
+41,2021,Jambi,Sumatera,26565,727,26675,-837
+42,2021,Jawa Barat,Jawa,618634,13310,618648,-13324
+43,2021,Jawa Tengah,Jawa,404369,26754,399323,-21708
+44,2021,Jawa Timur,Jawa,315655,23346,295187,-2878
+45,2021,Kalimantan Barat,Kalimantan,38553,1036,37858,-341
+46,2021,Kalimantan Selatan,Kalimantan,54651,1807,53753,-909
+47,2021,Kalimantan Tengah,Kalimantan,35920,1233,37709,-3022
+48,2021,Kalimantan Timur,Kalimantan,131256,4709,130052,-3505
+49,2021,Kalimantan Utara,Kalimantan,32146,754,33066,-1674
+50,2021,Kepulauan Bangka Belitung,Sumatera,50021,1427,49163,-569
+51,2021,Kepulauan Riau,Sumatera,47217,1577,46082,-442
+52,2021,Lampung,Sumatera,43474,3597,41022,-1145
+53,2021,Maluku,Maluku,8874,193,9767,-1086
+54,2021,Maluku Utara,Maluku,9334,214,9449,-329
+55,2021,Nusa Tenggara Barat,Nusa Tenggara,22143,557,22365,-779
+56,2021,Nusa Tenggara Timur,Nusa Tenggara,62086,1298,61641,-853
+57,2021,Papua,Papua,21165,404,26650,-5889
+58,2021,Papua Barat,Papua,17681,258,17744,-321
+59,2021,Riau,Sumatera,103968,3535,101395,-962
+60,2021,Sulawesi Barat,Sulawesi,10427,313,10466,-352
+61,2021,Sulawesi Selatan,Sulawesi,78955,1648,81973,-4666
+62,2021,Sulawesi Tengah,Sulawesi,43701,1499,43738,-1536
+63,2021,Sulawesi Tenggara,Sulawesi,12266,381,12958,-1073
+64,2021,Sulawesi Utara,Sulawesi,25129,752,26554,-2177
+65,2021,Sumatera Barat,Sumatera,66409,1628,65888,-1107
+66,2021,Sumatera Selatan,Sumatera,48160,2483,47527,-1850
+67,2021,Sumatera Utara,Sumatera,87974,2214,87777,-2017
+68,2022,Aceh,Sumatera,5608,157,5351,100
+69,2022,Bali,Nusa Tenggara,52442,670,51356,416
+70,2022,Banten,Jawa,201049,256,198354,2439
+71,2022,Bengkulu,Sumatera,6068,49,5986,33
+72,2022,DKI Jakarta,Jawa,547214,1904,534898,10412
+73,2022,Daerah Istimewa Yogyakarta,Jawa,67310,659,66088,563
+74,2022,Gorontalo,Sulawesi,2102,26,2046,30
+75,2022,Jambi,Sumatera,8851,106,8684,61
+76,2022,Jawa Barat,Jawa,464881,1181,450730,12970
+77,2022,Jawa Tengah,Jawa,149494,3106,145722,666
+78,2022,Jawa Timur,Jawa,201480,2019,198644,817
+79,2022,Kalimantan Barat,Kalimantan,23934,69,23770,95
+80,2022,Kalimantan Selatan,Kalimantan,17522,192,17187,143
+81,2022,Kalimantan Tengah,Kalimantan,12557,132,12277,148
+82,2022,Kalimantan Timur,Kalimantan,50685,274,50162,249
+83,2022,Kalimantan Utara,Kalimantan,9477,49,9419,9
+84,2022,Kepulauan Bangka Belitung,Sumatera,13785,154,13574,57
+85,2022,Kepulauan Riau,Sumatera,16671,140,16733,-202
+86,2022,Lampung,Sumatera,25735,315,25733,-313
+87,2022,Maluku,Maluku,4140,30,4069,41
+88,2022,Maluku Utara,Maluku,2490,31,2445,14
+89,2022,Nusa Tenggara Barat,Nusa Tenggara,8440,84,8410,-54
+90,2022,Nusa Tenggara Timur,Nusa Tenggara,30162,180,29942,40
+91,2022,Papua,Papua,15553,20,15407,126
+92,2022,Papua Barat,Papua,8510,28,8456,26
+93,2022,Riau,Sumatera,23714,335,23502,-123
+94,2022,Sulawesi Barat,Sulawesi,3233,47,3184,2
+95,2022,Sulawesi Selatan,Sulawesi,34494,244,34134,116
+96,2022,Sulawesi Tengah,Sulawesi,13846,128,13673,45
+97,2022,Sulawesi Tenggara,Sulawesi,5520,41,5452,27
+98,2022,Sulawesi Utara,Sulawesi,17971,150,17364,457
+99,2022,Sumatera Barat,Sumatera,14767,218,14362,187
+100,2022,Sumatera Selatan,Sumatera,22212,294,21621,297
+101,2022,Sumatera Utara,Sumatera,52743,395,51746,602
