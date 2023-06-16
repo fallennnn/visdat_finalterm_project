@@ -41,7 +41,7 @@ def update_plot():
     source.data = new_data
     
     # Add title to scatter_plot: scatter_plot.title.text
-    scatter_plot.title.text = 'Scatter plot data for %d' % yr
+    scatter_plot.title.text = 'COVID-19 Scatter plot data for %d' % yr
     
     # Update bar plot
     bar_data = data.loc[yr].groupby('Island')[plot_bar].sum()
@@ -53,7 +53,7 @@ def update_plot():
     bar_plot.y_range.end = max(bar_data) * 1.1
 
     # Add title to bar_plot: bar_plot.title.text
-    bar_plot.title.text = 'Bar plot data for %d' % yr
+    bar_plot.title.text = 'COVID-19 Bar plot data for %d' % yr
     bar_plot.yaxis.axis_label = plot_bar  # Perbarui label sumbu Y sesuai dengan dropdown
 
 # Add text above the Year slider
