@@ -81,7 +81,8 @@ scatter_plot = figure(title='2020', x_axis_label='New Cases', y_axis_label='New 
 
 # Add a circle glyph to the scatter_plot
 scatter_plot.circle(x='x', y='y', source=source, fill_alpha=0.8,
-                    color=dict(field='island', transform=color_mapper), legend='island')
+                    color=dict(field='island', transform=color_mapper), legend_field='island')
+
 
 # Set the legend and axis attributes
 scatter_plot.legend.location = 'top_right'
